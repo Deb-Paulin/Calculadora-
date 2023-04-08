@@ -52,5 +52,5 @@ function Calculadora() {
     this.del = () => this.display.value = this.display.value.slice(0, -1);
   }
   
-  const calculadora = new Calculadora();
-  calculadora.inicia();
+const calculadora = new Calculadora();
+calculadora.inicia();
