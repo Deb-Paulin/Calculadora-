@@ -57,3 +57,28 @@ body {
 .btn:hover {
   background: var(--cinza-claro);
 }
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 380px;
+        margin: 64px auto;
+        height: 440px
+    }
+
+    .title {
+        font-size: 28px;
+    }
+
+    .calculadora {
+        width: 340px;
+    }
+
+    .display {
+        border: 2px solid var(--cor-titulo);
+        font-size: 1.5em;
+    }
+
+    .btn {
+        font-size: 20px;
+    }
+}
