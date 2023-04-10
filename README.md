@@ -14,7 +14,7 @@ Essa é uma calculadora inspirada no qual é ensinado pelo professor Luiz Otávi
 Versão Mobile: 480px
 
 ## Deploy do projeto
-
+https://deb-paulin.github.io/Calculadora-/
 
 ## Tecnologias utilizadas
 -HTML 
